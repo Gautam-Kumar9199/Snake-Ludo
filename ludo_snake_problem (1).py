@@ -275,7 +275,7 @@ def start_playing(p:"ludo",cheating,probability,range_to_apply_probability): # f
 probability = [False , False , False , False , False ,True ,False ,False , False , False]
 range_ = 10
 start_playing(p,True,probability,range_)
-#print(p.nbrs[98])kha busy hai
+
 
 
 
